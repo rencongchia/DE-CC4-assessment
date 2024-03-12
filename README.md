@@ -12,7 +12,9 @@ With the given datasets, I focused on extracting restaurant details, event infor
 
 1. Clone the repository:
 
+```
 git clone https://github.com/rencongchia/DE-CC4-assessment.git
+```
 
 2. Navigate to the project directory:
 
